@@ -49,11 +49,11 @@ class Spiel {
     }
 
     private int berechneComputerZug() {
-        boolean machtOptimalenZug = Math.random() > 0.2; // 80% Chance für den optimalen Zug
+        boolean machtOptimalenZug = Math.random() < 0.8; // 80% Chance für den optimalen Zug
 
         int ziel = (streichhoelzer - 1) % 4;
 
-        if (!machtOptimalenZug) {
+        if (machtOptimalenZug) {
             int zufaelligerZug = (int) (Math.random() * 3) + 1;
             return zufaelligerZug == ziel ? zufaelligerZug % 3 + 1 : zufaelligerZug;
         } else if (ziel == 0) {
