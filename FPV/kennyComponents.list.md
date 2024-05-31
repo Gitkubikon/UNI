@@ -1,4 +1,6 @@
-### **Small Drone (1-4 inches) - Budget Build**
+### **Long Range FPV Drone Components Lists**
+
+#### **Small Drone (1-4 inches) - Budget Build**
 
 1. **Eachine EV800D FPV Goggles**: €99.99  
    [Link](https://www.banggood.com/Eachine-EV800D-5_8G-40CH-Diversity-FPV-Goggles-5-Inch-800+480-Video-Headset-HD-DVR-Build-in-Battery-p-1180354.html)
@@ -6,80 +8,111 @@
 2. **Eachine TX5258 5.8G 48CH 25/200/600/800mW Switchable FPV Transmitter**: €16.23  
    [Link](https://www.banggood.com/Eachine-TX5258-5_8G-48CH-25_200_600_800mW-Switchable-FPV-Transmitter-p-1200261.html)
 
-3. **Happymodel Mobula7 V2 Frame Kit**: $12.99  
-   [Link](https://www.banggood.com/Happymodel-Mobula7-V2-75mm-Whoop-Frame-Kit-for-RC-Drone-FPV-Racing-p-1382008.html)
+3. **iFlight Alpha A85 Frame Kit**: $29.99  
+   [Link](https://www.iflight-rc.com/index.php?route=product/product&product_id=1042)
 
-4. **FrSky R-XSR Ultra Mini Redundant Receiver**: €19.99  
-   [Link](https://www.banggood.com/FrSky-R-XSR-Ultra-Mini-Redundancy-SBUS-Receiver-16CH-24CH-1_5g-p-1188801.html)
+4. **BetaFPV LiteRadio 3**: €39.99  
+   [Link](https://www.banggood.com/BETAFPV-LiteRadio-3-Transmitter-Radio-Controller-RC-Transmitter-with-Internal-2_4GHz-ExpressLRS-for-FPV-Racing-Drone-p-1857863.html)
 
-5. **Happymodel Crazybee F4 PRO V3.0 FC**: $44.99  
-   [Link](https://www.banggood.com/Happymodel-Crazybee-F4-PRO-V3_0-Flight-Controller-OSD-5A-BLHeli_S-ESC-FrSky-Receiver-For-Mobula7-HD-Drone-p-1493123.html)
+5. **BetaFPV ELRS Micro Receiver**: €11.99  
+   [Link](https://www.banggood.com/BETAFPV-2_4GHz-ELRS-Micro-Receiver-for-FPV-Racing-Drone-Compatible-with-BETAFPV-LiteRadio-2-SE-and-BETAFPV-Nano-Module-p-1824473.html)
 
-6. **Happymodel EX0802 19000KV Brushless Motors (4 PCS)**: $27.99  
-   [Link](https://www.banggood.com/Happymodel-EX0802-19000KV-Brushless-Motor-For-Mobula7-75mm-Whoop-FPV-Racing-Drone-p-1495373.html)
+6. **Mamba F405 Mini MK2 F40 40A 3-6S Flight Controller Stack**: $69.99  
+   [Link](https://www.getfpv.com/diatone-mamba-f405-mini-mk2-f40-40a-3-6s-flight-controller-stack.html)
 
-7. **Gemfan 1635 40mm 4-Blade Propellers**: $2.99  
-   [Link](https://www.banggood.com/Gemfan-1635-40mm-4-Blade-Propeller-0_8mm-Mounting-Hole-For-1-8s-Brushless-Whoop-RC-Drone-p-1426337.html)
+7. **Emax ECO II Series 2004 1700KV Brushless Motor (4 PCS)**: $39.99  
+   [Link](https://www.getfpv.com/emax-eco-ii-series-2004-1700kv-brushless-motor.html)
 
-8. **XT30 Connector with Cable 100mm Male AWG14**: €3.95  
-   [Link](https://www.banggood.com/XT30-Connector-100mm-14AWG-Silicone-Wire-For-RC-Drone-Battery-5Pcs-p-1440004.html)
+8. **Gemfan 3520 Bi-Blade Propellers (4CW+4CCW)**: $3.00  
+   [Link](https://www.getfpv.com/gemfan-3520-bi-blade-propellers.html)
 
-9. **Gaoneng GNB 300mAh 2S 7.4V 40C Lipo Battery with XT30 Plug (5 PCS)**: €29.99  
-   [Link](https://www.banggood.com/5Pcs-Gaoneng-GNB-300mAh-2S-7_4V-40C-Lipo-Battery-XT30-Plug-For-RC-Drone-FPV-Racing-p-1428194.html)
+9. **XT60 Connector with Cable 100mm Male AWG12**: €3.95  
+   [Link](https://n-factory.de/XT60-Connector-with-Cable-100mm-Male-AWG12)
 
-**Total cost at checkout (at a conversion rate of 1 Euro = 1.09 USD)**
+10. **Gaoneng GNB 1300mAh 14.8V 4S 100C Lipo Battery with XT60 Plug**: €28.75  
+   [Link](https://www.banggood.com/Gaoneng-GNB-1300mAh-14_8V-4S-100C-Lipo-Battery-XT60-Plug-p-1185358.html)
 
-    €169.14 = $184.37 (at a conversion rate of 1 Euro = 1.09 USD)
-    $88.95
-    $12.99
+11. **TBS Smoke Stopper XT30 - XT60**: €6.95  
+    [Link](https://www.copterfarm.de/team-blacksheep-tbs-smoke-stopper-xt30-xt60-786.html)
 
-**Drone Cost Only** :
-    $184.37 + $88.95 + $12.99
-    - Total Cost in USD = $286.31
+12. **ISDT PC-4860S Lipo Parallele Ladeplatine, 1-8S XT60 Safe Laderboard-Bilanzbatterie Lipo-Batterien**: $33.99  
+    [Link](https://isdtshop.com/de-de/products/isdt-pc-4860s)
+
+13. **ISDT Air8 Smart Lipo Ladegerät, DC 500W 20A Balance Charger für 1-8S Lipo-Batterien**: $59.99  
+    [Link](https://isdtshop.com/de-de/collections/q-series/products/isdt-air8)
 
 ---
 
-### **Small Drone (1-4 inches) - Premium Build**
+**Total cost at checkout (at a conversion rate of 1 Euro = 1.09 USD)**
 
-1. **DJI FPV Goggles V2**: €579.00  
+    €207.90 = $226.61 (at a conversion rate of 1 Euro = 1.09 USD)
+    $206.96
+    $39.99
+    €3.95 = $4.30 (at a conversion rate of 1 Euro = 1.09 USD)
+
+**Drone Cost Only** :
+    $226.61 + $206.96 + $39.99 + $4.30
+    - Total Cost in USD = $477.86
+
+---
+
+#### **Small Drone (1-4 inches) - Premium Build**
+
+1. **DJI FPV Goggles V2**: €579.00 (Already purchased - not included in total cost)  
    [Link](https://store.dji.com/product/dji-fpv-goggles-v2)
 
 2. **DJI FPV Air Unit Module**: €159.00  
    [Link](https://store.dji.com/product/dji-fpv-air-unit)
 
-3. **iFlight Protek25 Pusher Frame Kit**: $42.99  
-   [Link](https://www.iflight-rc.com/index.php?route=product/product&product_id=1040)
+3. **iFlight Chimera4 Frame Kit**: $79.99  
+   [Link](https://www.iflight-rc.com/index.php?route=product/product&product_id=905)
 
-4. **TBS Crossfire Nano RX (SE)**: €29.95  
-   [Link](https://www.team-blacksheep.com/products/prod:nano_rx_se)
+4. **BetaFPV LiteRadio 3**: €39.99  
+   [Link](https://www.banggood.com/BETAFPV-LiteRadio-3-Transmitter-Radio-Controller-RC-Transmitter-with-Internal-2_4GHz-ExpressLRS-for-FPV-Racing-Drone-p-1857863.html)
 
-5. **iFlight SucceX-D 20A F4 AIO Whoop FC**: $89.99  
-   [Link](https://www.iflight-rc.com/index.php?route=product/product&product_id=1024)
+5. **BetaFPV ELRS Micro Receiver**: €11.99  
+   [Link](https://www.banggood.com/BETAFPV-2_4GHz-ELRS-Micro-Receiver-for-FPV-Racing-Drone-Compatible-with-BETAFPV-LiteRadio-2-SE-and-BETAFPV-Nano-Module-p-1824473.html)
 
-6. **BrotherHobby VY 1504.5 2900KV Brushless Motors (4 PCS)**: $79.96  
-   [Link](https://www.brotherhobby.com/vy-1504.5-2900kv-brushless-motor-4-pcs-p-272.html)
+6. **iFlight SucceX-D F7 TwinG // 50A BLHeli_32 ESC Stack**: $139.99  
+   [Link](https://www.iflight-rc.com/index.php?route=product/product&product_id=879)
 
-7. **Gemfan D63 5-Blade Propellers**: $4.99  
-   [Link](https://gemfanhobby.com/product/gemfan-d63-63mm-5-blade-propeller/)
+7. **BrotherHobby VY 1507 3400KV Brushless Motor (4 PCS)**: $69.99  
+   [Link](https://www.brotherhobby.com/vy-1507-3400kv-brushless-motor-4-pcs-p-272.html)
 
-8. **XT60 Connector with Cable 100mm Male AWG12**: €3.95  
-   [Link](https://www.banggood.com/XT60-Connector-100mm-14AWG-Silicone-Wire-For-RC-Drone-Battery-5Pcs-p-1440004.html)
+8. **Gemfan 4023 Tri-Blade Propellers (4CW+4CCW)**: $7.99  
+   [Link](https://gemfanhobby.com/product/4-inch-gemfan-4023-propeller/)
 
-9. **CNHL Black Series 450mAh 3S 11.1V 70C Lipo Battery with XT60 Plug (5 PCS)**: €49.99  
-   [Link](https://chinahobbyline.com/products/cnhl-black-series-450mah-11-1v-3s-70c-lipo-battery-with-xt60-plug)
+9. **XT60 Connector with Cable 100mm Male AWG12**: €3.95  
+   [Link](https://n-factory.de/XT60-Connector-with-Cable-100mm-Male-AWG12)
 
-**Total cost at checkout (at a conversion rate of 1 Euro = 1.09 USD)**
+10. **CNHL Black Series 2200mAh 14.8V 4S 100C Lipo Battery with XT60 Plug**: €34.00  
+   [Link](https://chinahobbyline.com/products/cnhl-black-series-2200mah-14-8v-4s-100c-lipo-battery-with-xt60-plug)
 
-    €821.89 = $895.86 (at a conversion rate of 1 Euro = 1.09 USD)
-    $217.93
+11. **TBS Smoke Stopper XT30 - XT60**: €6.95  
+    [Link](https://www.copterfarm.de/team-blacksheep-tbs-smoke-stopper-xt30-xt60-786.html)
 
-**Drone Cost Only** :
-    $895.86 + $217.93
-    - Total Cost in USD = $1113.79
+12. **ISDT PC-4860S Lipo Parallele Ladeplatine, 1-8S XT60 Safe Laderboard-Bilanzbatterie Lipo-Batterien**: $33.99  
+    [Link](https://isdtshop.com/de-de/products/isdt-pc-4860s)
+
+13. **ISDT Air8 Smart Lipo Ladegerät, DC 500W 20A Balance Charger für 1-8S Lipo-Batterien**: $59.99  
+    [Link](https://isdtshop.com/de-de/collections/q-series/products/isdt-air8)
 
 ---
 
-### **Large Drone (7-10 inches) - Budget Build**
+**Total cost at checkout (at a conversion rate of 1 Euro = 1.09 USD)**
+
+    €254.87 = $277.81 (at a conversion rate of 1 Euro = 1.09 USD)
+    $391.94
+    $69.99
+    €3.95 = $4.30 (at a conversion rate of 1 Euro = 1.09 USD)
+
+**Drone Cost Only** :
+    $277.81 + $391.94 + $69.99 + $4.30
+    - Total Cost in USD = $744.04
+
+---
+
+#### **Big Drone (7-10 inches) - Budget Build**
 
 1. **Eachine EV800D FPV Goggles**: €99.99  
    [Link](https://www.banggood.com/Eachine-EV800D-5_8G-40CH-Diversity-FPV-Goggles-5-Inch-800+480-Video-Headset-HD-DVR-Build-in-Battery-p-1180354.html)
@@ -90,40 +123,54 @@
 3. **Source One V5 Frame Kit**: $29.99  
    [Link](https://www.getfpv.com/tbs-source-one-v5-frame.html)
 
-4. **FrSky R-XSR Ultra Mini Redundant Receiver**: €19.99  
-   [Link](https://www.banggood.com/FrSky-R-XSR-Ultra-Mini-Redundancy-SBUS-Receiver-16CH-24CH-1_5g-p-1188801.html)
+4. **BetaFPV LiteRadio 3**: €39.99  
+   [Link](https://www.banggood.com/BETAFPV-LiteRadio-3-Transmitter-Radio-Controller-RC-Transmitter-with-Internal-2_4GHz-ExpressLRS-for-FPV-Racing-Drone-p-1857863.html)
 
-5. **Mamba F405 DJI MK2 F40 40A 3-6S Flight Controller Stack**: $69.99  
+5. **BetaFPV ELRS Micro Receiver**: €11.99  
+   [Link](https://www.banggood.com/BETAFPV-2_4GHz-ELRS-Micro-Receiver-for-FPV-Racing-Drone-Compatible-with-BETAFPV-LiteRadio-2-SE-and-BETAFPV-Nano-Module-p-1824473.html)
+
+6. **Mamba F405 DJI MK2 F40 40A 3-6S Flight Controller Stack**: $69.99  
    [Link](https://www.getfpv.com/diatone-mamba-f405-dji-mk2-f40-40a-3-6s-flight-controller-stack.html)
 
-6. **Emax ECO II Series 2306 1700KV Brushless Motor (4 PCS)**: $59.96  
-   [Link](https://www.getfpv.com/emax-eco-ii-series-2306-1700kv-brushless-motor.html)
+7. **Emax ECO II Series 2807 1700KV Brushless Motor (4 PCS)**: $79.96  
+   [Link](https://www.getfpv.com/emax-eco-ii-series-2807-1700kv-brushless-motor.html)
 
-7. **Dalprop Cyclone T5046C Pro Tri-Blade Propellers**: $3.00  
-   [Link](https://www.getfpv.com/dalprop-cyclone-t5046c-pro-tri-blade-5-propellers.html)
+8. **Gemfan 7042 Tri-Blade Propellers (4CW+4CCW)**: $7.99  
+   [Link](https://gemfanhobby.com/product/7-inch-gemfan-7042-propeller/)
 
-8. **XT60 Connector with Cable 100mm Male AWG12**: €3.95  
+9. **XT60 Connector with Cable 100mm Male AWG12**: €3.95  
    [Link](https://n-factory.de/XT60-Connector-with-Cable-100mm-Male-AWG12)
 
-9. **Gaoneng GNB 2200mAh 14.8V 4S 100C Lipo Battery with XT60 Plug**: €28.75  
-   [Link](https://
+10. **Gaoneng GNB 2200mAh 14.8V 4S 100C Lipo Battery with XT60 Plug**: €28.75  
+    [Link](https://www.banggood.com/Gaoneng-GNB-2200mAh-14_8V-4S-100C-Lipo-Battery-XT60-Plug-p-1185358.html)
 
-www.banggood.com/Gaoneng-GNB-2200mAh-14_8V-4S-100C-Lipo-Battery-XT60-Plug-p-1185358.html)
+11. **TBS Smoke Stopper XT30 - XT60**: €6.95  
+    [Link](https://www.copterfarm.de/team-blacksheep-tbs-smoke-stopper-xt30-xt60-786.html)
 
-**Total cost at checkout (at a conversion rate of 1 Euro = 1.09 USD)**
+12. **ISDT PC-4860S Lipo Parallele Ladeplatine, 1-8S XT60 Safe Laderboard-Bilanzbatterie Lipo-Batterien**: $33.99  
+    [Link](https://isdtshop.com/de-de/products/isdt-pc-4860s)
 
-    €168.91 = $184.12 (at a conversion rate of 1 Euro = 1.09 USD)
-    $162.94
-
-**Drone Cost Only** :
-    $184.12 + $162.94
-    - Total Cost in USD = $347.06
+13. **ISDT Air8 Smart Lipo Ladegerät, DC 500W 20A Balance Charger für 1-8S Lipo-Batterien**: $59.99  
+    [Link](https://isdtshop.com/de-de/collections/q-series/products/isdt-air8)
 
 ---
 
-### **Large Drone (7-10 inches) - Premium Build**
+**Total cost at checkout (at a conversion rate of 1 Euro = 1.09 USD)**
 
-1. **DJI FPV Goggles V2**: €579.00  
+    €207.85 = $226.56 (at a conversion rate of 1 Euro = 1.09 USD)
+    $281.88
+    $79.96
+    €3.95 = $4.30 (at a conversion rate of 1 Euro = 1.09 USD)
+
+**Drone Cost Only** :
+    $226.56 + $281.88 + $79.96 + $4.30
+    - Total Cost in USD = $592.70
+
+---
+
+#### **Big Drone (7-10 inches) - Premium Build**
+
+1. **DJI FPV Goggles V2**: €579.00 (Already purchased - not included in total cost)  
    [Link](https://store.dji.com/product/dji-fpv-goggles-v2)
 
 2. **DJI FPV Air Unit Module**: €159.00  
@@ -132,32 +179,52 @@ www.banggood.com/Gaoneng-GNB-2200mAh-14_8V-4S-100C-Lipo-Battery-XT60-Plug-p-1185
 3. **iFlight Chimera7 Pro V2 Frame Kit**: $119.99  
    [Link](https://www.iflight-rc.com/index.php?route=product/product&product_id=1150)
 
-4. **TBS Crossfire Nano RX (SE)**: €29.95  
-   [Link](https://www.team-blacksheep.com/products/prod:nano_rx_se)
+4. **BetaFPV LiteRadio 3**: €39.99  
+   [Link](https://www.banggood.com/BETAFPV-LiteRadio-3-Transmitter-Radio-Controller-RC-Transmitter-with-Internal-2_4GHz-ExpressLRS-for-FPV-Racing-Drone-p-1857863.html)
 
-5. **iFlight SucceX-D F7 TwinG // 50A BLHeli_32 ESC Stack**: $139.99  
+5. **BetaFPV ELRS Micro Receiver**: €11.99  
+   [Link](https://www.banggood.com/BETAFPV-2_4GHz-ELRS-Micro-Receiver-for-FPV-Racing-Drone-Compatible-with-BETAFPV-LiteRadio-2-SE-and-BETAFPV-Nano-Module-p-1824473.html)
+
+6. **iFlight SucceX-D F7 TwinG // 50A BLHeli_32 ESC Stack**: $139.99  
    [Link](https://www.iflight-rc.com/index.php?route=product/product&product_id=879)
 
-6. **BrotherHobby Avenger 2806.5 1300KV Brushless Motor (4 PCS)**: $139.96  
+7. **BrotherHobby Avenger 2806.5 1300KV Brushless Motor (4 PCS)**: $139.96  
    [Link](https://www.brotherhobby.com/avenger-2806.5-1300kv-brushless-motor-4-pcs-p-272.html)
 
-7. **Gemfan 7042 Tri-Blade Propellers (4CW+4CCW)**: $7.99  
+8. **Gemfan 7042 Tri-Blade Propellers (4CW+4CCW)**: $7.99  
    [Link](https://gemfanhobby.com/product/7-inch-gemfan-7042-propeller/)
 
-8. **XT60 Connector with Cable 100mm Male AWG12**: €3.95  
+9. **XT60 Connector with Cable 100mm Male AWG12**: €3.95  
    [Link](https://n-factory.de/XT60-Connector-with-Cable-100mm-Male-AWG12)
 
-9. **CNHL Black Series 3000mAh 22.2V 6S 100C Lipo Battery with XT60 Plug**: €89.00  
-   [Link](https://chinahobbyline.com/products/cnhl-black-series-3000mah-22-2v-6s-100c-lipo-battery-with-xt60-plug)
+10. **CNHL Black Series 3000mAh 22.2V 6S 100C Lipo Battery with XT60 Plug**: €89.00  
+    [Link](https://chinahobbyline.com/products/cnhl-black-series-3000mah-22-2v-6s-100c-lipo-battery-with-xt60-plug)
+
+11. **TBS Smoke Stopper XT30 - XT60**: €6.95  
+    [Link](https://www.copterfarm.de/team-blacksheep-tbs-smoke-stopper-xt30-xt60-786.html)
+
+12. **ISDT PC-4860S Lipo Parallele Ladeplatine, 1-8S XT60 Safe Laderboard-Bilanzbatterie Lipo-Batterien**: $33.99  
+    [Link](https://isdtshop.com/de-de/products/isdt-pc-4860s)
+
+13. **ISDT Air8 Smart Lipo Ladegerät, DC 500W 20A Balance Charger für 1-8S Lipo-Batterien**: $59.99  
+    [Link](https://isdtshop.com/de-de/collections/q-series/products/isdt-air8)
+
+---
 
 **Total cost at checkout (at a conversion rate of 1 Euro = 1.09 USD)**
 
-    €859.90 = $937.29 (at a conversion rate of 1 Euro = 1.09 USD)
-    $407.93
+    €310.88 = $338.87 (at a conversion rate of 1 Euro = 1.09 USD)
+    $501.92
+    $139.96
+    €3.95 = $4.30 (at a conversion rate of 1 Euro = 1.09 USD)
 
 **Drone Cost Only** :
-    $937.29 + $407.93
-    - Total Cost in USD = $1345.22
+    $338.87 + $501.92 + $139.96 + $4.30
+    - Total Cost in USD = $985.05
+
+---
+
+This should provide a comprehensive and organized overview for building both budget and premium small (1-4 inches) and big (7-10 inches) FPV drones using the BetaFPV Lite Radio series.
 
 ---
 
