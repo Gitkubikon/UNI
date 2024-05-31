@@ -224,10 +224,6 @@
 
 ---
 
-This should provide a comprehensive and organized overview for building both budget and premium small (1-4 inches) and big (7-10 inches) FPV drones using the BetaFPV Lite Radio series.
-
----
-
 ### **Kleine Drohne (1-4 Zoll) - Budget Build**
 
 **Beschreibung:**
