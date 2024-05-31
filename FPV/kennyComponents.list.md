@@ -192,68 +192,64 @@
 
 ---
 
-### **Kleine Drohne (1-4 Zoll) - Budget Build**
+### Kleine Drohne (1-4 Zoll) - Budget Build
 
-**Beschreibung:**
-Eine kleine, leichte Drohne für drinnen und draußen. Hat eine klare Sicht mit der Eachine EV800D FPV-Brille und gute Videoübertragung mit dem Walksnail Avatar Mini 1S Lite Kit. Der Mobula7 V2 Rahmen und die Happymodel Motoren sorgen für stabile Flüge. GPS-Modul für Navigation und Rückkehr.
+**Beschreibung**: Eine kleine, leichte Drohne für drinnen und draußen. Sie bietet eine klare Sicht mit der Fat Shark Recon HD FPV-Brille und eine gute Videoübertragung mit dem Walksnail Avatar Mini 1S Kit. Der BetaFPV HX115 Rahmen und die Emax ECO Motoren sorgen für stabile Flüge. Ein GPS-Modul unterstützt die Navigation und Rückkehr.
 
-**Pro:**
+**Pro**:
 - Günstig
 - Einfach zu fliegen
 - Gute Videoübertragung
 - Leicht und kompakt
 
-**Contra:**
+**Contra**:
 - Weniger Leistung
 - Kürzere Flugzeit
 
 ---
 
-### **Kleine Drohne (1-4 Zoll) - Premium Build**
+### Kleine Drohne (1-4 Zoll) - Premium Build
 
-**Beschreibung:**
-Kompakte Drohne mit hochwertigen Komponenten. Walksnail Avatar HD Goggles X für super Videoqualität, iFlight Protek25 Rahmen und BrotherHobby Motoren für hohe Leistung. TBS Crossfire Nano RX für stabile Steuerung, GPS-Modul für Navigation.
+**Beschreibung**: Kompakte Drohne mit hochwertigen Komponenten. Walksnail Avatar HD Goggles X für super Videoqualität, iFlight Chimera4 Rahmen und BrotherHobby Motoren für hohe Leistung. TBS Crossfire Nano RX für stabile Steuerung, GPS-Modul für Navigation.
 
-**Pro:**
+**Pro**:
 - Beste Videoqualität
 - Zuverlässige Steuerung
 - Hohe Leistung
 - GPS-Unterstützung
 
-**Contra:**
+**Contra**:
 - Teuer
 - Komplexer Aufbau
 
 ---
 
-### **Große Drohne (7-10 Zoll) - Budget Build**
+### Große Drohne (7-10 Zoll) - Budget Build
 
-**Beschreibung:**
-Große Drohne für längere Flüge. Gute Videoübertragung mit Eachine EV800D FPV-Brille und Walksnail Avatar HD Pro Kit. Robuster Source One V5 Rahmen und Emax ECO II Motoren. Mamba F405 Flight Controller und GPS-Modul für stabile Steuerung.
+**Beschreibung**: Große Drohne für längere Flüge. Gute Videoübertragung mit der Fat Shark Recon HD FPV-Brille und dem Walksnail Avatar Mini 1S Kit. Robuster TBS Source One V5 Rahmen und Emax ECO II Motoren. Mamba F722S Flight Controller und GPS-Modul für stabile Steuerung.
 
-**Pro:**
+**Pro**:
 - Lange Flugzeit
 - Robuster Rahmen
 - Gute Videoübertragung
 - GPS-Unterstützung
 
-**Contra:**
+**Contra**:
 - Groß und schwer
 - Weniger wendig
 
 ---
 
-### **Große Drohne (7-10 Zoll) - Premium Build**
+### Große Drohne (7-10 Zoll) - Premium Build
 
-**Beschreibung:**
-Hochwertige große Drohne. Walksnail Avatar HD Goggles X und Avatar HD Pro Kit mit Moonlight-Kamera für Top-Videoqualität. iFlight Chimera7 Pro V2 Rahmen und BrotherHobby Avenger Motoren für starke Leistung. Präzise Steuerung mit iFlight SucceX-D F7 und GPS-Modul.
+**Beschreibung**: Hochwertige große Drohne. Walksnail Avatar HD Goggles X und Moonlight-Kamera für Top-Videoqualität. iFlight Chimera7 Pro V2 Rahmen und T-Motor F90 Pro Motoren für starke Leistung. Präzise Steuerung mit Holybro Kakute F7 und GPS-Modul.
 
-**Pro:**
+**Pro**:
 - Top-Videoqualität
 - Starke Leistung
 - Präzise Steuerung
 - GPS-Unterstützung
 
-**Contra:**
+**Contra**:
 - Sehr teuer
 - Komplexer Aufbau
