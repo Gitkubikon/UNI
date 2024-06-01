@@ -23,13 +23,13 @@
 8. **Emax ECO 1404 3700KV Brushless Motors (4 PCS)**: 54.63€  
    [Link](https://www.getfpv.com/emax-eco-1404-3700kv-brushless-motor.html)
 
-9. **Gemfan 3025 Bi-Blade Propellers (4CW+4CCW)**: €7.34
+9. **Gemfan 3025 Bi-Blade Propellers (4CW+4CCW)**: €7.34  
    [Link](https://newbeedrone.com/products/gemfan-3025bn-2-blade-propeller-m5-orange-ccw-cw)
 
-10. **XT30 Connector with Cable 100mm Male AWG12**: €1,99
+10. **XT30 Connector with Cable 100mm Male AWG12**: €1,99  
    [Link](https://www.rotorama.com/product/readytosky-xt30-s-kabelem-male)
 
-11. **[Combo] 2 Packs CNHL MiniStar 650mAh 11.1V 3S 70C Lipo Battery with XT30U**: €13,39
+11. **[Combo] 2 Packs CNHL MiniStar 650mAh 11.1V 3S 70C Lipo Battery with XT30U**: €13,39  
     [Link](https://chinahobbyline.com/products/cnhl-ministar-series-650mah-11-1v-3s-70c-lipo-battery-with-xt30-plug?_pos=2&_sid=1e4ea9b9e&_ss=r)
 
 12. **ISDT PC-4860S Lipo Parallele Ladeplatine, 1-8S XT60 Safe Laderboard-Bilanzbatterie Lipo-Batterien**: $33.99  
