@@ -5,37 +5,37 @@
 1. **Fat Shark Recon HD Goggles**: €274.92
    [Link](https://www.drone-fpv-racer.com/en/recon-walksnail-hd-fpv-goggles-by-fatshark-10425.html)
 
-2. **Walksnail Avatar Mini 1S VTX/Camera Kit**: € 105,19
+3. **Walksnail Avatar Mini 1S VTX/Camera Kit**: € 105,19
    [Link](https://www.rotorama.de/product/walksnail-avatar-mini-1s-lite-kit)
 
-3. **BetaFPV HX115 Frame Kit**: $12.99  
+4. **BetaFPV HX115 Frame Kit**: $12.99  
    [Link](https://betafpv.com/products/hx115-lr-frame-kit)
 
-4. **BetaFPV LiteRadio 3**: $59.99  
+5. **BetaFPV LiteRadio 3**: $59.99  
    [Link](https://betafpv.com/products/literadio-3-radio-transmitter)
 
-5. **BetaFPV ELRS Micro Receiver**: €11.99  
+6. **BetaFPV ELRS Micro Receiver**: €11.99  
    [Link](https://betafpv.com/products/elrs-micro-receiver)
 
-6. **Diatone Mamba F405 Mini MK2 Flight Controller Stack**: 87.90 €  
+7. **Diatone Mamba F405 Mini MK2 Flight Controller Stack**: 87.90 €  
    [Link](https://www.fpv24.com/de/diatone/diatone-mamba-f405-mini-mk2-stack-fc-esc)
 
-7. **Emax ECO 1404 3700KV Brushless Motors (4 PCS)**: 54.63€  
+8. **Emax ECO 1404 3700KV Brushless Motors (4 PCS)**: 54.63€  
    [Link](https://www.getfpv.com/emax-eco-1404-3700kv-brushless-motor.html)
 
-8. **Gemfan 3025 Bi-Blade Propellers (4CW+4CCW)**: €7.34
+9. **Gemfan 3025 Bi-Blade Propellers (4CW+4CCW)**: €7.34
    [Link](https://newbeedrone.com/products/gemfan-3025bn-2-blade-propeller-m5-orange-ccw-cw)
 
-9. **XT30 Connector with Cable 100mm Male AWG12**: €1,99
+10. **XT30 Connector with Cable 100mm Male AWG12**: €1,99
    [Link](https://www.rotorama.com/product/readytosky-xt30-s-kabelem-male)
 
-10. **[Combo] 2 Packs CNHL MiniStar 650mAh 11.1V 3S 70C Lipo Battery with XT30U**: €13,39
+11. **[Combo] 2 Packs CNHL MiniStar 650mAh 11.1V 3S 70C Lipo Battery with XT30U**: €13,39
     [Link](https://chinahobbyline.com/products/cnhl-ministar-series-650mah-11-1v-3s-70c-lipo-battery-with-xt30-plug?_pos=2&_sid=1e4ea9b9e&_ss=r)
 
-11. **ISDT PC-4860S Lipo Parallele Ladeplatine, 1-8S XT60 Safe Laderboard-Bilanzbatterie Lipo-Batterien**: $33.99  
+12. **ISDT PC-4860S Lipo Parallele Ladeplatine, 1-8S XT60 Safe Laderboard-Bilanzbatterie Lipo-Batterien**: $33.99  
     [Link](https://isdtshop.com/de-de/products/isdt-pc-4860s)
 
-12. **ISDT Air8 Smart Lipo Ladegerät, DC 500W 20A Balance Charger für 1-8S Lipo-Batterien**: $59.99  
+13. **ISDT Air8 Smart Lipo Ladegerät, DC 500W 20A Balance Charger für 1-8S Lipo-Batterien**: $59.99  
     [Link](https://isdtshop.com/de-de/collections/q-series/products/isdt-air8)
 
 **Drone Cost Only**: $236.91  
