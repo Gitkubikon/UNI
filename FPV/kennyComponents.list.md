@@ -2,35 +2,35 @@
 
 #### **Small Drone (1-4 inches) - Budget Build**
 
-1. **Fat Shark Recon HD Goggles**: $300  
-   [Link](https://www.nextfpv.com.au/products/fat-shark-recon-hd-digital-fpv-goggles-walksnail-compatible)
+1. **Fat Shark Recon HD Goggles**: €274.92
+   [Link](https://www.drone-fpv-racer.com/en/recon-walksnail-hd-fpv-goggles-by-fatshark-10425.html)
 
-2. **Walksnail Avatar Mini 1S VTX/Camera Kit**: $189  
-   [Link](https://www.caddxfpv.com/products/walksnail-avatar-mini-vtx)
+2. **Walksnail Avatar Mini 1S VTX/Camera Kit**: € 105,19
+   [Link](https://www.rotorama.de/product/walksnail-avatar-mini-1s-lite-kit)
 
 3. **BetaFPV HX115 Frame Kit**: $12.99  
-   [Link](https://www.getfpv.com/betafpv-hx115-hd-fpv-frame-kit.html)
+   [Link](https://betafpv.com/products/hx115-lr-frame-kit)
 
 4. **BetaFPV LiteRadio 3**: $59.99  
-   [Link](https://www.banggood.com/BETAFPV-LiteRadio-3-Transmitter-Radio-Controller-RC-Transmitter-with-Internal-2_4GHz-ExpressLRS-for-FPV-Racing-Drone-p-1857863.html)
+   [Link](https://betafpv.com/products/literadio-3-radio-transmitter)
 
 5. **BetaFPV ELRS Micro Receiver**: €11.99  
-   [Link](https://www.banggood.com/BETAFPV-2_4GHz-ELRS-Micro-Receiver-for-FPV-Racing-Drone-Compatible-with-BETAFPV-LiteRadio-2-SE-and-BETAFPV-Nano-Module-p-1824473.html)
+   [Link](https://betafpv.com/products/elrs-micro-receiver)
 
 6. **Diatone Mamba F405 Mini MK2 Flight Controller Stack**: 87.90 €  
-   [Link](https://www.getfpv.com/diatone-mamba-f405-mini-mk2-f40-40a-3-6s-flight-controller-stack.html)
+   [Link](https://www.fpv24.com/de/diatone/diatone-mamba-f405-mini-mk2-stack-fc-esc)
 
 7. **Emax ECO 1404 3700KV Brushless Motors (4 PCS)**: 54.63€  
    [Link](https://www.getfpv.com/emax-eco-1404-3700kv-brushless-motor.html)
 
-8. **Gemfan 3025 Bi-Blade Propellers (4CW+4CCW)**: $3.00  
-   [Link](https://www.getfpv.com/gemfan-3025-bi-blade-propellers.html)
+8. **Gemfan 3025 Bi-Blade Propellers (4CW+4CCW)**: €7.34
+   [Link](https://newbeedrone.com/products/gemfan-3025bn-2-blade-propeller-m5-orange-ccw-cw)
 
-9. **XT30 Connector with Cable 100mm Male AWG12**: €3.95  
-   [Link](https://n-factory.de/XT30-Connector-with-Cable-100mm-Male-AWG12)
+9. **XT30 Connector with Cable 100mm Male AWG12**: €1,99
+   [Link](https://www.rotorama.com/product/readytosky-xt30-s-kabelem-male)
 
-10. **Gaoneng GNB 650mAh 11.1V 3S 80C Lipo Battery with XT30 Plug**: €18.75  
-    [Link](https://www.banggood.com/Gaoneng-GNB-650mAh-11_1V-3S-80C-Lipo-Battery-XT30-Plug-p-1290215.html)
+10. **[Combo] 2 Packs CNHL MiniStar 650mAh 11.1V 3S 70C Lipo Battery with XT30U**: €13,39
+    [Link](https://chinahobbyline.com/products/cnhl-ministar-series-650mah-11-1v-3s-70c-lipo-battery-with-xt30-plug?_pos=2&_sid=1e4ea9b9e&_ss=r)
 
 11. **ISDT PC-4860S Lipo Parallele Ladeplatine, 1-8S XT60 Safe Laderboard-Bilanzbatterie Lipo-Batterien**: $33.99  
     [Link](https://isdtshop.com/de-de/products/isdt-pc-4860s)
