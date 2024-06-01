@@ -2,10 +2,10 @@
 
 #### **Small Drone (1-4 inches) - Budget Build**
 
-1. **Fat Shark Recon HD Goggles**: €274.92
+1. **Fat Shark Recon HD Goggles**: €274.92  
    [Link](https://www.drone-fpv-racer.com/en/recon-walksnail-hd-fpv-goggles-by-fatshark-10425.html)
 
-3. **Walksnail Avatar Mini 1S VTX/Camera Kit**: € 105,19
+3. **Walksnail Avatar Mini 1S VTX/Camera Kit**: € 105,19  
    [Link](https://www.rotorama.de/product/walksnail-avatar-mini-1s-lite-kit)
 
 4. **BetaFPV HX115 Frame Kit**: $12.99  
